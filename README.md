@@ -32,9 +32,9 @@ Music-Store-SQL-Analysis/
 ├── insights.md
 ├── Schema.png
 └── queries/
-├── 01_easy_questions.sql
-├── 02_moderate_questions.sql
-└── 03_advanced_questions.sql
+    ├── 01_easy_questions.sql
+    ├── 02_moderate_questions.sql
+    └── 03_advanced_questions.sql
 ```
 
 ## 🔍 Business Questions Solved
