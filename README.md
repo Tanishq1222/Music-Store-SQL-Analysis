@@ -35,7 +35,7 @@ The music store's wants to:
 └── 03_advanced_questions.sql"
 
 ## 🔍 Business Questions Solved
-**Easy:** Senior-most employee, top invoice countries, top invoice values, 
+**Easy:** Senior-most employee, top invoice countries, top invoice values,
 best city, best customer
 
 **Moderate:** Rock music listener segmentation, top rock artists, 
@@ -43,4 +43,9 @@ above-average track lengths
 
 **Advanced:** Customer spend by artist, top genre per country, 
 top customer per country (with tie handling)
+
+## 💡 Key Insights
+See [`insights.md`](./insights.md) for detailed findings and business recommendations.
+
+
 
