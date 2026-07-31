@@ -50,5 +50,8 @@ top customer per country (with tie handling)
 ## 💡 Key Insights
 See [`insights.md`](./insights.md) for detailed findings and business recommendations.
 
-
+## 🚀 How to Run
+1. Clone this repo
+2. Set up the Chinook database 
+3. Run scripts in `/queries` in order, or individually per question set
 
