@@ -24,8 +24,8 @@ The music store's wants to:
 - Joins (INNER, LEFT), Subqueries, CTEs, Window Functions (RANK, DENSE_RANK)
 - Aggregations (SUM, COUNT, AVG) and GROUP BY with tie-handling logic
 
-- ## 📁 Repository Structure
-''' 
+## 📁 Repository Structure
+``` 
 Music-Store-SQL-Analysis/
 ├── MusicStore_Dataset.zip
 ├── README.md
@@ -35,7 +35,7 @@ Music-Store-SQL-Analysis/
 ├── 01_easy_questions.sql
 ├── 02_moderate_questions.sql
 └── 03_advanced_questions.sql
-'''
+```
 
 ## 🔍 Business Questions Solved
 **Easy:** Senior-most employee, top invoice countries, top invoice values,
